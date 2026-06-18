@@ -34,7 +34,7 @@ To uncover actionable insights that can help improve sales performance, optimize
 
 ## Dashboard Preview
 
-([Add screenshots here](https://www.linkedin.com/feed/update/urn:li:activity:7470587389699215360))
+(https://www.linkedin.com/feed/update/urn:li:activity:7470587389699215360))
 
 ## Project Files
 
